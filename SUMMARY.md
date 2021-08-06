@@ -11,3 +11,7 @@
 
 * [Chroot Things](chroot/chroot-things.md)
 
+## Android
+
+* [Custom Kernel samsung](android/custom_kernel.md)
+
