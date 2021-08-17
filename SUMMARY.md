@@ -5,6 +5,7 @@
 ## Termux
 
 * [Proot Things](termux/proot-things.md)
+* [Xwayland In proot](termux/xwayland-in-proot.md)
 * [Systemctl in proot](termux/systemctl-in-proot.md)
 
 ## Chroot
