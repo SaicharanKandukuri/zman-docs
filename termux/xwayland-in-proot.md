@@ -82,6 +82,8 @@ That's all now if you open minimized Xwayland:Termux app you see xfce4 running
 
 {% embed url="https://github.com/wayland-project/wayland" %}
 
+{% embed url="https://at.projects.genivi.org/wiki/display/DIRO/Wayland+Application+on+Android" %}
+
 
 
   
