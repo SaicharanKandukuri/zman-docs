@@ -76,6 +76,11 @@ startxfce4
 That's all now if you open minimized Xwayland:Termux app you see xfce4 running
 {% endhint %}
 
+## Show some love 💖⭐
+
+even it's a fork [@suhan-paradkar ](https://github.com/suhan-paradkar)managed to make a private reboot and make it work. it would be great if you show some love by staring his GitHub repo  
+if you are a Wayland or linux expert make sure to help this tiny platform where people try to do these kind of  uncommon things
+
 ## Further sources
 
 {% embed url="https://github.com/suhan-paradkar/termux-wayland/wiki/Launching-GUI-applications" %}
