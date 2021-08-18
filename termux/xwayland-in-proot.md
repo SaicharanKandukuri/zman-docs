@@ -66,7 +66,7 @@ export DISPLAY value to :0
 export DISPLAY=:0
 ```
 
-then invoke you de start script. for xfce4 it is startxfce4 and other may differ
+then invoke your de start script. for xfce4 it is startxfce4 and others may differ
 
 ```bash
 startxfce4
