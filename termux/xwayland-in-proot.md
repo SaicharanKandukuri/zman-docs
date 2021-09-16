@@ -7,6 +7,8 @@ description: 'Xwayland to make thing smooth in termux proot [no-root]'
 {% hint style="danger" %}
 Termux:Xwayland app for termux is a project left by termux before release. and a fork of it is under development. as lot of it is old and less polished you may observe a lot of bugs and may experience app crashes  
 active maintainer: [https://github.com/suhan-paradkar](https://github.com/suhan-paradkar)
+
+\[ Upadate \]: termux:x11main branch is back under maintainanece 
 {% endhint %}
 
 ## Setting up apps & dependencies
@@ -32,7 +34,7 @@ Setting termux is done ✌️
 
 ### Setting up Termux:Xwayalnd app
 
-for now, this app is available here [https://github.com/suhan-paradkar/termux-wayland/releases](https://github.com/suhan-paradkar/termux-wayland/releases)  
+for now, this app is available here [https://github.com/termux/termux-x11/actions](https://github.com/termux/termux-x11/actions)  
 so download and install it
 
 ## Using Termux:Xwayland to run `proot-distro` Linux
@@ -83,9 +85,9 @@ if you are a Wayland or linux expert make sure to help this tiny platform where 
 
 ## Further sources
 
-{% embed url="https://github.com/suhan-paradkar/termux-wayland/wiki/Launching-GUI-applications" %}
+{% embed url="https://github.com/suhan-paradkar/termux-wayland/wiki/Launching-GUI-applications" caption="suhan-paradkar guide on starting wayland" %}
 
-{% embed url="https://github.com/wayland-project/wayland" %}
+{% embed url="https://github.com/termux/termux-x11" caption="termux:x11 Github repo" %}
 
 {% embed url="https://at.projects.genivi.org/wiki/display/DIRO/Wayland+Application+on+Android" %}
 
